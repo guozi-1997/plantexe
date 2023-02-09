@@ -30,7 +30,7 @@
         },
         "windows": {
             "changelog": "This is an example changelog for Windows. Go on...",
-            "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+            "download-url": "https://github.com/guozi-1997/plantexe.git",
             "latest-version": "1.0",
             "mandatory": true,
             "open-url": ""
