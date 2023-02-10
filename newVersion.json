@@ -31,7 +31,7 @@
         "windows": {
             "changelog": "This is an example changelog for Windows. Go on...",
             "download-url": "https://e-cloudstore.com/files/ecology_dev.zip",
-            "latest-version": "1.0",
+            "latest-version": "1",
             "mandatory": true,
             "open-url": ""
         }
