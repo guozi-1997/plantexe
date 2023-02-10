@@ -1,0 +1,39 @@
+{
+    "updates": {
+        "android": {
+            "changelog": "This is an example changelog for Android. Go on...",
+            "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+            "latest-version": "1.0",
+            "mandatory": true,
+            "open-url": ""
+        },
+        "ios": {
+            "changelog": "This is an example changelog for iOS. Go on...",
+            "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+            "latest-version": "1.0",
+            "mandatory": true,
+            "open-url": ""
+        },
+        "linux": {
+            "changelog": "This is an example changelog for Linux. Go on...",
+            "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+            "latest-version": "1.0",
+            "mandatory": true,
+            "open-url": ""
+        },
+        "osx": {
+            "changelog": "This is an example changelog for Mac OS X. Go on...",
+            "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+            "latest-version": "1.0",
+            "mandatory": true,
+            "open-url": ""
+        },
+        "windows": {
+            "changelog": "This is an example changelog for Windows. Go on...",
+            "download-url": "https://e-cloudstore.com/files/ecology_dev.zip",
+            "latest-version": "1.0",
+            "mandatory": true,
+            "open-url": ""
+        }
+    }
+}
