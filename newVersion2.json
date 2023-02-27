@@ -30,7 +30,7 @@
         },
         "windows": {
             "changelog": "This is an example changelog for Windows. Go on...",
-            "download-url": "https://github.com/guozi-1997/plantexe/archive/refs/heads/master.zip",
+            "download-url": "sftp://root@150.158.26.20/download",
             "latest-version": "1.0",
             "mandatory": true,
             "open-url": ""
